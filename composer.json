@@ -1,0 +1,17 @@
+{
+    "name": "shristi/internship-project",
+    "description": "GUVI Developer Internship Assignment — Register/Login/Profile",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "mongodb/mongodb": "^1.17"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "php/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}

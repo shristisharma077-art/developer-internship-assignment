@@ -1,0 +1,26 @@
+# ============================================================
+# .gitignore
+# ============================================================
+
+# Composer dependencies
+/vendor/
+
+# Environment / config overrides (keep config.php as template)
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# PHP cache
+*.cache
