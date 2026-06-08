@@ -303,6 +303,11 @@ git push -u origin main
 
 ---
 
-## 👤 Author
+## Author
 
-**Shristi** — GUVI Developer Internship Submission
+**Shristi Sharma**
+
+B.Tech CSE (AI & ML)  
+Galgotias University  
+
+GitHub: https://github.com/shristisharma077-art
